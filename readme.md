@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LlamaIndex-FF9900?style=for-the-badge&logo=meta&logoColor=white" alt="LlamaIndex"/>
@@ -30,6 +32,9 @@
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML"/>
   <img src="https://img.shields.io/badge/RAG-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LLMs-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/NLP-1155cc?style=for-the-badge&logo=spacy&logoColor=white" alt="NLP"/>
 </p>
 
 ---
@@ -41,12 +46,12 @@
 
 ## 📈 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvo&show_icons=true&theme=react&hide_border=true" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvo&theme=react&hide_border=true" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vdt040499&show_icons=true&theme=react&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vdt040499&theme=react&hide_border=true" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvo&layout=compact&theme=react&hide_border=true" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdt040499&layout=compact&theme=react&hide_border=true" alt="top languages" />
 </p>
 
 ---
