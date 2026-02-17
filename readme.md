@@ -46,13 +46,13 @@
 
 ## 📈 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vdt040499&show_icons=true&theme=react&hide_border=true" alt="github stats" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/vdt040499?cardType=level&fontFamily=&preferLogin=false" alt="github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vdt040499&theme=react&hide_border=true" alt="streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdt040499&layout=compact&theme=react&hide_border=true" alt="top languages" />
-</p>
+</p> -->
 
 ---
 
